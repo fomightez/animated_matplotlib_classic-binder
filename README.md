@@ -1,2 +1,2 @@
 # animated_matplotlib-binder
-Notebook to demonstrate animated plots with Matplotlib in notebooks served via Binder system.
+This repository enables demonstrating animated plots with Matplotlib in notebooks served via Binder system.
