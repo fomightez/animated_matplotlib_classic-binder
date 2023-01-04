@@ -2,3 +2,4 @@ jupyterlab>=1.0
 seaborn
 scipy
 pandas
+nbgitpuller
